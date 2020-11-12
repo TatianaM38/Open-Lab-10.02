@@ -50,7 +50,7 @@ namespace Open_Lab_10._02
             Console.WriteLine("Author of the book: " + author);
             Console.WriteLine("Category: " + category);
             Console.WriteLine("Pages: " + pages);
-            Console.WriteLine("Release date: " + releaseDate);
+            Console.WriteLine("Release date: " + releaseDate); 
         }
     }
 }
